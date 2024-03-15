@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, I’m Eryk 👋 ##
+Aspiring developer and continuous learner passionate about web technologies. 
+Currently a student, I focus on frontend development and enjoy exploring new tools and frameworks.
+ I have a keen interest in **AI** and emerging technologies. Here’s a brief overview of my projects:
+## Tic-Tac-Toe 🎮 ##
+A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a friend or challenge the computer! Check it out **<a href="https://github.com/Eryk-Majewski/Tic-Tac-Toe" >Here</a>**.
 
-<!--
-**Eryk-Majewski/Eryk-Majewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quiz App 🧠 ##
+Built an interactive quiz application with React. Test your knowledge on various topics and challenge your friends! **<a href="https://github.com/Eryk-Majewski/Quiz-App" >Here</a>**.
 
-Here are some ideas to get you started:
+## Responsive Holiday Website 🌴 ##
+Created a delightful holiday-themed website using React, TypeScript, and Tailwind CSS. It’s fully responsive and features beautiful animations. Explore it **<a href="https://github.com/Eryk-Majewski/Responsive-holiday-website" >Here</a>**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Photo Editor 📸 ##
+Developed a lightweight photo editor using JavaScript. Apply filters, crop images, and enhance your photos effortlessly. Find the code **<a href="https://github.com/Eryk-Majewski/Photo-Editor" >Here</a>**.
+
+## Language Skills 🌐 ##
+Angielski: Biegła znajomość w mowie i piśmie. <br />
+Polski: Ojczysty język, doskonała komunikacja.
+
+## Tools and Technologies 🛠️ ##
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
