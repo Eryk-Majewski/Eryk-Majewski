@@ -2,11 +2,12 @@
 Aspiring developer and continuous learner passionate about web technologies. 
 Currently a student, I focus on frontend development and enjoy exploring new tools and frameworks.
  I have a keen interest in **AI** and emerging technologies. Here’s a brief overview of my projects:
-## Tic-Tac-Toe 🎮 ##
-A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a friend or challenge the computer! Check it out **<a href="https://github.com/Eryk-Majewski/Tic-Tac-Toe" >Here</a>**.
 
 ## Quiz App 🧠 ##
 Built an interactive quiz application with React. Test your knowledge on various topics and challenge your friends! **<a href="https://github.com/Eryk-Majewski/Quiz-App" >Here</a>**.
+
+## Tic-Tac-Toe 🎮 ##
+A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a friend or challenge the computer! Check it out **<a href="https://github.com/Eryk-Majewski/Tic-Tac-Toe" >Here</a>**.
 
 ## Responsive Holiday Website 🌴 ##
 Created a delightful holiday-themed website using React, TypeScript, and Tailwind CSS. It’s fully responsive and features beautiful animations. Explore it **<a href="https://github.com/Eryk-Majewski/Responsive-holiday-website" >Here</a>**.
